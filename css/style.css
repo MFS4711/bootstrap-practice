@@ -197,3 +197,23 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+.table {
+    text-align: center;
+}
+
+/* Modal */
+.modal-content {
+    background-color: #f05f40;
+    color: white;
+}
+
+.modal-content .btn {
+    background-color: white;
+    border-color: white;
+    border-radius: 15px;
+    min-width: 100px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #f05f40;
+}
